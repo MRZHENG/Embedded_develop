@@ -1,0 +1,10 @@
+.\objects\bsp_key.o: USER\bsp_key.c
+.\objects\bsp_key.o: USER\bsp_key.h
+.\objects\bsp_key.o: .\CMSIS\stm32f10x.h
+.\objects\bsp_key.o: .\CMSIS\core_cm3.h
+.\objects\bsp_key.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_key.o: .\CMSIS\system_stm32f10x.h
+.\objects\bsp_key.o: .\USER\stm32f10x_conf.h
+.\objects\bsp_key.o: .\FWlib\inc\stm32f10x_gpio.h
+.\objects\bsp_key.o: .\CMSIS\stm32f10x.h
+.\objects\bsp_key.o: .\FWlib\inc\stm32f10x_rcc.h

@@ -1,0 +1,13 @@
+.\objects\basictim.o: USER\BasicTIM.c
+.\objects\basictim.o: USER\BasicTIM.h
+.\objects\basictim.o: .\CMSIS\stm32f10x.h
+.\objects\basictim.o: .\CMSIS\core_cm3.h
+.\objects\basictim.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\basictim.o: .\CMSIS\system_stm32f10x.h
+.\objects\basictim.o: .\USER\stm32f10x_conf.h
+.\objects\basictim.o: .\FWlib\inc\stm32f10x_gpio.h
+.\objects\basictim.o: .\CMSIS\stm32f10x.h
+.\objects\basictim.o: .\FWlib\inc\stm32f10x_rcc.h
+.\objects\basictim.o: .\FWlib\inc\stm32f10x_tim.h
+.\objects\basictim.o: .\USER\BasicTIM.h
+.\objects\basictim.o: .\FWlib\inc\misc.h

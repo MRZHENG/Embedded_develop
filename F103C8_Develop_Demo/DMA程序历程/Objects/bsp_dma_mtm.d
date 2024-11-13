@@ -1,0 +1,12 @@
+.\objects\bsp_dma_mtm.o: USER\DMA_DEMO\bsp_DMA_mtm.c
+.\objects\bsp_dma_mtm.o: USER\DMA_DEMO\bsp_DMA_mtm.h
+.\objects\bsp_dma_mtm.o: .\USER\led.h
+.\objects\bsp_dma_mtm.o: .\CMSIS\stm32f10x.h
+.\objects\bsp_dma_mtm.o: .\CMSIS\core_cm3.h
+.\objects\bsp_dma_mtm.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_dma_mtm.o: .\CMSIS\system_stm32f10x.h
+.\objects\bsp_dma_mtm.o: .\USER\stm32f10x_conf.h
+.\objects\bsp_dma_mtm.o: .\FWlib\inc\stm32f10x_gpio.h
+.\objects\bsp_dma_mtm.o: .\CMSIS\stm32f10x.h
+.\objects\bsp_dma_mtm.o: .\FWlib\inc\stm32f10x_rcc.h
+.\objects\bsp_dma_mtm.o: .\FWlib\inc\stm32f10x_dma.h
